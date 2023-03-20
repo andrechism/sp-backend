@@ -9,3 +9,11 @@ To run the builded project:
 
 To run the unit tests:
 `npm run test`
+
+App live at: 
+`https://sp-backend-c8hx.onrender.com/`
+
+Endpoints:
+`https://sp-backend-c8hx.onrender.com/api/users?since={number}`
+`https://sp-backend-c8hx.onrender.com/api/users/:username/details`
+`https://sp-backend-c8hx.onrender.com/api/users/:username/repos`
